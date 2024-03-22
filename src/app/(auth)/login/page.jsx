@@ -102,7 +102,7 @@ const Login = () => {
           <button style={styles.button} onClick={handleLogin}>Login</button>
         </div>
         <h5 style={{ color: "rgba(0,0,0,0.5)", textAlign: "center" }}>
-         Don't Have an account?{" "}
+         Dont Have an account?
           <Link href="/register">
           <span style={{ fontSize: "20px", fontWeight: "bold",textDecoration:"none" }}>SignUp</span>
           </Link>
